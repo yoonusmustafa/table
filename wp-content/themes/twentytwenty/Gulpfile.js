@@ -1,23 +1,3 @@
-// var gulp = require('gulp');
-// gulp.task('hello', function() {
-//   console.log('First Task');
-// })
-
-
-// gulp.task('promise', function(cb) {
-//     return new Promise(function(resolve, reject) {
-//       setTimeout(function() {
-//         resolve();
-//       }, 300);
-//     });
-//   });
-
-//   gulp.task('default', function(cb) {
-//     console.log('Default Task');
-//     cb();
-//   });
-
-
 var gulp = require('gulp');
 var sass = require('gulp-sass');
 var autoprefixer = require('gulp-autoprefixer');
