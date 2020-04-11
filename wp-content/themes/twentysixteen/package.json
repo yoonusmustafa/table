@@ -1,0 +1,15 @@
+{
+  "name": "twentysixteen",
+  "version": "1.0.0",
+  "description": "=== Twenty Sixteen === Contributors: wordpressdotorg Tested up to: 5.0 Version: 2.0 License: GPLv2 or later License URI: http://www.gnu.org/licenses/gpl-2.0.html Tags: one-column, two-columns, right-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready, blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "node": "^13.12.0"
+  }
+}
